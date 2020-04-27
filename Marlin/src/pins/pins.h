@@ -641,7 +641,7 @@
   #elif MB(BIGTREE_SKR_V2_2)
     #error "BOARD_BIGTREE_SKR_V1_2 has been renamed BOARD_BTT_SKR_V1_2. Please update your configuration."
   #elif MB(BIGTREE_SKR_V1_3)
-    #error "BOARD_BTT_SKR_V1_3 has been renamed BOARD_BTT_SKR_V1_3. Please update your configuration."
+    #error "BOARD_BIGTREE_SKR_V1_3 has been renamed BOARD_BTT_SKR_V1_3. Please update your configuration."
   #elif MB(BIGTREE_SKR_V1_4)
     #error "BOARD_BIGTREE_SKR_V1_4 has been renamed BOARD_BTT_SKR_V1_4. Please update your configuration."
   #elif MB(BIGTREE_SKR_V1_4_TURBO)
